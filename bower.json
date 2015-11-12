@@ -1,0 +1,22 @@
+{
+  "name": "extdep",
+  "version": "1.0.0",
+  "authors": [
+    "Matan Katz <matank@jfrog.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "demopkg": "https://github.com/shayke/demopkg/archive/master.tar.gz"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
