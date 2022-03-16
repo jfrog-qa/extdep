@@ -10,7 +10,7 @@
   "license": "MIT",
   "homepage": "",
   "dependencies": {
-    "demopkg": "https://github.com/matankatz/demopkg/archive/master.tar.gz"
+    "demopkg": "https://github.com/jfrog-qa/demopkg/archive/master.tar.gz"
   },
   "ignore": [
     "**/.*",
