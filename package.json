@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matankatz/extdep.git"
+    "url": "git+https://github.com/jfrog-qa/extdep.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matankatz/extdep/issues"
+    "url": "https://github.com/jfrog-qa/extdep/issues"
   },
-  "homepage": "https://github.com/matankatz/extdep#readme"
+  "homepage": "https://github.com/jfrog-qa/extdep#readme"
 }
